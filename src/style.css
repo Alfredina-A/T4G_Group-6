@@ -2,18 +2,53 @@ nav{
     background-color: bisque;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-div{
-    display: flex;
-    flex-wrap: wrap
-    ;
-    
-}
-
-.unit{
-    border: 5px solid black;
+.wes{
     display: flex;
     flex-wrap: wrap;
-    width: 50%;
-    border: 2px;
+    justify-content: space-around;
+}
+   
+
+.unit{
+    width:22%;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 20px
+}
+
+
+
+.box2{
+   
+    height: 120px;
+    background-color: purple;
+    
+}
+.box{
+   
+    height: 120px;
+    background-color: cyan;
+}
+.box1{
+   
+    height: 120px;
+    background-color: rgb(134, 190, 50);
+}
+.box3{
+   
+    height: 120px;
+    background-color: rgb(223, 158, 38);
+    
+}
+.no{
+    color: rgb(104, 172, 172);
+}
+.Assessment{
+    font-size: 20px;
 }
