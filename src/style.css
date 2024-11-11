@@ -1,0 +1,19 @@
+nav{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    display: flex;
+    flex-wrap: wrap
+    ;
+    
+}
+
+.unit{
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    border: 2px;
+}
